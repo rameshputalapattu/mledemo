@@ -1,0 +1,1 @@
+This repository demonstrates the usage of Maximum Likelihood Estimate (MLE) method to fit distribution to data in go programming language leveraging gonum's optimize package. The gradients are computed using the gorgonia package's automatic differentiation functionality.
