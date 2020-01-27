@@ -1,2 +1,3 @@
 mledemo
 *.exe
+vendor/*

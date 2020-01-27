@@ -115,6 +115,7 @@ gopkg.in/cheggaaa/pb.v1 v1.0.27/go.mod h1:V/YB90LKu/1FcN3WVnfiiE5oMCibMjukxqG/qS
 gopkg.in/yaml.v2 v2.2.2 h1:ZCJp+EgiOT7lHqUV2J862kp8Qj64Jo6az82+3Td9dZw=
 gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
 gorgonia.org/cu v0.9.0-beta/go.mod h1:RPEPIfaxxqUmeRe7T1T8a0NER+KxBI2McoLEXhP1Vd8=
+gorgonia.org/cu v0.9.1 h1:mMKxzc8fBYtzHViHop4d1loq05DlkFOFYi6ht/YBRbE=
 gorgonia.org/cu v0.9.1/go.mod h1:LgyAYDkN7HWhh8orGnCY2R8pP9PYbO44ivEbLMatkVU=
 gorgonia.org/dawson v1.1.0/go.mod h1:Px1mcziba8YUBIDsbzGwbKJ11uIblv/zkln4jNrZ9Ws=
 gorgonia.org/dawson v1.2.0 h1:hJ/aofhfkReSnJdSMDzypRZ/oWDL1TmeYOauBnXKdFw=
